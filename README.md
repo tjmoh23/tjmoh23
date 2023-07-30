@@ -1,4 +1,5 @@
-### 안녕하세요. 이호연입니다. 👋
+#### 안녕하세요. 이호연입니다. 👋
+#### 데이터 분석을 공부하고 있습니다.
 
 <div align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -14,3 +15,5 @@
 <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
 </div>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftjmoh23&count_bg=%23E97DAC&title_bg=%23E98080&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
